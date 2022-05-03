@@ -1,0 +1,22 @@
+.alice-carousel__prev-btn, .alice-carousel__next-btn {
+    position: relative;
+    top: -150px;
+    left: 10px;
+    padding: 0;
+}
+
+.alice-carousel__prev-btn-item {
+    background: url(../../assets/font-awesome/angle-left-solid.svg) no-repeat;
+    height: 2vw;
+    width: 2vw;
+}
+
+.alice-carousel__next-btn-item {
+    background: url(../../assets/font-awesome/angle-right-solid.svg) no-repeat;
+    height: 2vw;
+    width: 2vw;
+}
+
+.alice-carousel__next-btn-item span, .alice-carousel__prev-btn-item span {
+    display: none;
+}
