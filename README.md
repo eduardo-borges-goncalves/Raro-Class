@@ -1,4 +1,64 @@
-# Raro Class  :mortar_board:
+Sure, here is an example README.md for the "Raro-Class" repository:
+
+# Raro Class - English
+
+Raro Class is a web application built with React that provides online classes and educational resources to students. This repository contains the frontend codebase for the application.
+
+## Features
+
+The application includes the following features:
+
+- User authentication and authorization
+- Course listing and filtering
+- Video lessons playback
+- Discussion forum for each course
+- Quizzes with multiple-choice questions
+- Leaderboards to show top performers
+
+## Installation
+
+To run the application locally, follow these steps:
+
+1. Clone the repository:
+
+   ```
+   git clone https://github.com/eduardo-borges-goncalves/Raro-Class.git
+   ```
+
+2. Install the dependencies:
+
+   ```
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```
+   npm start
+   ```
+
+The application should now be running on [http://localhost:3000](http://localhost:3000).
+
+## Technologies Used
+
+The following technologies were used to build the application:
+
+- React
+- React Router
+- Redux
+- Axios
+- Bootstrap
+- Font Awesome
+
+## Contributing
+
+Contributions are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+# Raro Class - Português :mortar_board:
 
 ## Introdução  :pencil:
  <br>
