@@ -1,5 +1,3 @@
-Sure, here is an example README.md for the "Raro-Class" repository:
-
 # Raro Class - English
 
 Raro Class is a web application built with React that provides online classes and educational resources to students. This repository contains the frontend codebase for the application.
